@@ -1,7 +1,7 @@
 require 'json'
 
 class LanguagePack::Helpers::Nodebin
-  NODE_VERSION = "20.9.0"
+  NODE_VERSION = "16.18.1"
   YARN_VERSION = "1.22.19"
 
   def self.hardcoded_node_lts
